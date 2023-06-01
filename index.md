@@ -20,3 +20,10 @@ apt-get moo
     ~~   ~~   
 ...."Have you mooed today?"...
 ```
+
+Shopping list:
+
+- [x] Milk
+- [ ] Cheese
+- [ ] Salsa
+- [ ] Chips
