@@ -6,3 +6,17 @@
 ###### This is an h6 header
 
 ![Image of a cow](https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg)
+
+```console
+apt-get moo
+```
+
+```console
+         (__) 
+         (oo) 
+   /------\/ 
+  / |    ||   
+ *  /\---/\ 
+    ~~   ~~   
+...."Have you mooed today?"...
+```
